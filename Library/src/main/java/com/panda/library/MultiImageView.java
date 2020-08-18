@@ -74,7 +74,6 @@ public class MultiImageView extends LinearLayout {
             pxOneMaxWandH = MAX_WIDTH * 2 / 3; // 一张图的时候，图片宽度
             initImageLayoutParams();
         }
-
         initView();
     }
 
